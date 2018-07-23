@@ -16,10 +16,7 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
-import java.util.Iterator;
 import java.util.Locale;
-import java.util.Map;
-
 /**
  * @author maowenping 2016-05-10
  * @description 日志收集主类
