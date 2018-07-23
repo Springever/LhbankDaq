@@ -465,6 +465,7 @@ public final class AppUtils {
         return false;
     }
 
+
     /**
      * 封装App信息的Bean类
      */
