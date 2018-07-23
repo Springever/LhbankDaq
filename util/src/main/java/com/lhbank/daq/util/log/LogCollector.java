@@ -74,7 +74,6 @@ public class LogCollector {
 	 *
 	 * @Description
 	 * @throws IOException
-	 * @Author zhaoqianpeng(zqp@yitong.com.cn) 2014-9-12
 	 */
 	public static void initCreateFiles(String logpath) throws IOException {
 		if (isExistSDCard()) {
